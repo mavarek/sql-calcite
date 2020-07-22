@@ -21,3 +21,41 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+
+# IDE Files #
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+dist
+build
+bin
+4cc.checksum
+ebay.log
+*.class
+target/
+test-output/
+build.xml
+ebay-build.xml
+/.metadata
+dist
+build
+bin
+rebel.xml
+/tests/
+/coverage/
+/cobertura.ser
+*/temp_persist_config_*.xml
+*/src/main/resources/buildinfo.properties
+makoFiles/
+.tmp/
+ccaggregator/
+logs/
